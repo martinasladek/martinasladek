@@ -26,7 +26,7 @@ Most of my repositories are currently private while I'm finalising different sid
 ### [`ms_net`](https://github.com/martinasladek/ms_net)
 
 - The repository for my netlify website, due to an upgrade from `rmd` to `quarto`
-- [`Link to `ms_net` respository](https://github.com/martinasladek/ms_net)
+- [Link to `ms_net` respository](https://github.com/martinasladek/ms_net)
 - See the [compiled version of the website](https://www.martinasladek.co.uk) for more info about my research and some blogposts. 
 
 
